@@ -1,6 +1,6 @@
 {
   "name": "@wulechuan/colorful-log",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Colorful logs.",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,17 @@
   "license": "WTFPL",
   "dependencies": {
     "chalk": "^1.1.3"
-  }
+  },
+  "directories": {
+    "examples": "examples"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wulechuan/javascript-colorful-log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wulechuan/javascript-colorful-log/issues"
+  },
+  "homepage": "https://github.com/wulechuan/javascript-colorful-log#readme"
 }
