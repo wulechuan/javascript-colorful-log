@@ -1,0 +1,22 @@
+{
+  "name": "@wulechuan/colorful-log",
+  "version": "0.0.2",
+  "description": "Colorful logs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "colorful",
+    "beautiful",
+    "terminal",
+    "console",
+    "logger"
+  ],
+  "author": "wulechuan@live.com",
+  "license": "WTFPL",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
